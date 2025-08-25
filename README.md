@@ -1,2 +1,2 @@
-# hello.txt
+# Devops
 bsc ds1
